@@ -1,0 +1,2 @@
+compile the program using the command make
+to run the program type ./Raytracer <filename>

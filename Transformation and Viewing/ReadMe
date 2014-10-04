@@ -1,0 +1,40 @@
+1) Compile the program using the command make
+2) Run the viewer executable on the ifs file using the command ./viewer <filename>.ifs
+ 		eg. ./viewer teapot.ifs
+
+Keyboard buttons
+x	- Translate the camera along +ve X
+X	- Translate the camera along -ve X
+y	- Translate the camera along +ve Y
+Y	- Translate the camera along -ve Y
+z	- Translate the camera along +ve Z
+Z	- Translate the camera along -ve Z
+a	- Move the camera backward along its look vector
+A	- Move the camera forward along its look vector
+u	- Rotate the object about X- axis
+U	- Rotate the object about X- axis in opposite direction
+v	- Rotate the object about Y-axis
+V	- Rotate the object about Y-axis in opposite direction
+w	- Rotate the object about Z-axis
+W	- Rotate the object about Z-axis in opposite direction
+i	- Rotate the camera about its look vector
+I	- Rotate the camera about its look vector in opposite direction
+j	- Rotate the camera about its v axis
+J	- Rotate the camera about its v axis in opposite direction
+k	- Rotate the camera about its u axis
+K	- Rotate the camera about its u axis in opposite direction
++	- Scale the object(increase size)
+-	- Scale the object(decrease size)
+e	- Translate the object along +ve X
+E	- Translate the object along -ve X
+f	- Translate the object along +ve Y
+F	- Translate the object along -ve Y
+g	- Translate the object along +ve Z
+G	- Translate the object along -ve Z
+l	- Rotate the object about its own axis (say object's X axis)
+L	- Rotate the object about its own axis in opposite direction (say object's X axis)
+m	- Rotate the object about its own axis (say object's Y axis)
+M	- Rotate the object about its own axis in opposite direction (say object's Y axis)
+n	- Rotate the object about its own axis (say object's Z axis)
+N	- Rotate the object about its own axis in opposite direction (say object's Z axis)
+
